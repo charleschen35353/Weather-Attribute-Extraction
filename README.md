@@ -30,12 +30,12 @@ Data: SBU-shadow
 ### Rainy detection
 Accruacy: 93%
 
-Data: ASTRI_PRIVATE_DATASET
+Data: PRIVATE
 
 ### Sunny detection
 Accruacy: 93%
 
-Data: ASTRI_PRIVATE_DATASET
+Data: PRIVATE
 
 ### Sunlight intensity estimation
 Mask pixel error rate: 3.1%
@@ -45,6 +45,6 @@ Intensity Accracy: 88%
 ## License and Citation
 Copyrights reserved by Liang-yu (Charles) Chen
 
-Should you have any enquiries, please email lc3533@columbia.edu
+Should you have any enquiries about the project and dataset, please email lc3533@columbia.edu
 
 
