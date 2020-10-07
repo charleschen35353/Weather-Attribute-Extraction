@@ -7,6 +7,7 @@ This project aims to extract weather attributes from a given image.
 
 ## Getting started
 Please download weights from here: https://drive.google.com/drive/folders/1pgHcN1kikHKete80SqmyY2p9cIL3c67t
+
 And test data: https://drive.google.com/drive/folders/1MIxsMe42t6Grb07g6jAmt5SnIhpe4MDR
 
 Run
