@@ -6,7 +6,11 @@
 This project aims to extract weather attributes from a given image.
 
 ## Getting started
- python3 infer_attr.py ./path-to-images
+Please download weights from here: https://drive.google.com/drive/folders/1pgHcN1kikHKete80SqmyY2p9cIL3c67t
+And test data: https://drive.google.com/drive/folders/1MIxsMe42t6Grb07g6jAmt5SnIhpe4MDR
+
+Run
+python3 infer_attr.py ./path-to-images
 
 ## Weather environment prediction model performance
 
