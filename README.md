@@ -11,7 +11,7 @@ Please download weights from here: https://drive.google.com/drive/folders/1pgHcN
 And test data: https://drive.google.com/drive/folders/1MIxsMe42t6Grb07g6jAmt5SnIhpe4MDR
 
 Run
-python3 infer_attr.py ./path-to-images
+```$python infer_attr.py ./path-to-images```
 
 ## Weather environment prediction model performance
 
