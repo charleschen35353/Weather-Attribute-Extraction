@@ -48,7 +48,7 @@ Mask pixel error rate: 3.1%
 Intensity Accracy: 88%
 
 ## Other source
-This program is also migrated to C++ for software integration. However, the code belongs to Hong Kong Applied Science and Technology Research Institute. 
+This program is also migrated to C++ for software integration. However, the code belongs to Hong Kong Applied Science and Technology Research Institute and is sold in the product SRACE.
 
 ## License and Citation
 Copyrights reserved by Liang-yu (Charles) Chen
