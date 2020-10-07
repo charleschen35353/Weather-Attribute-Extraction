@@ -48,7 +48,7 @@ Mask pixel error rate: 3.1%
 Intensity Accracy: 88%
 
 ## Other source
-This program is also migrated to C++ for software integration. If you are interested in the C++ code, please email me through lc3533@columbia.edu.
+This program is also migrated to C++ for software integration. However, the code belongs to Hong Kong Applied Science and Technology Research Institute. 
 
 ## License and Citation
 Copyrights reserved by Liang-yu (Charles) Chen
